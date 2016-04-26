@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		link.rel="stylesheet".href=/css/style.css
+		<link.rel="stylesheet".href=/css/style.css>
 		<meta charset="UTF-8">
 		<style>
 			body {
@@ -15,7 +15,7 @@
 				max-width: 100%;
 			}
 		</style>
-		<title>Basic CSS Mockup</title>
+		<title>Dylan's Profe$$ional Webpage</title>
 	</head>
 	<body>
 		<img src="img/mockup.jpg" alt="mockup example" />
