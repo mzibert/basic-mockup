@@ -44,8 +44,11 @@ body { width: 100%;}
 /********************************************
 * ADD YOUR CSS HERE :D
 ********************************************/
-h1 {background: #0cceff}
-.instructions {margin: 20px; border: 5px solid #000}
+h1 {background: #0cceff;}
+h1.container {border-style: none; margin: 20px}
+.instructions {margin: 20px; border: 5px solid; border-color: #c2c2c1; padding: 25px; font-family: }
 image {float: left}
-section {background: #1fffff}
+section {background: #1fffff; padding: 25px}
 image {float: left}
+.pull-left {width: 300px; border: 5px solid; border-color: #c2c2c1;}
+.pull-right {float: right; margin-top: 5px; margin-right: 5px; margin-bottom: 10px; margin-left: 10px}
