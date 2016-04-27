@@ -46,9 +46,9 @@ body { width: 100%;}
 ********************************************/
 h1 {background: #0cceff;}
 h1.container {border-style: none; margin: 20px}
-.instructions {margin: 20px; border: 5px solid; border-color: #c2c2c1; padding: 25px; font-family: }
+.instructions {margin: 20px; border: 5px solid; border-color: #c2c2c1; padding: 25px; font-family: "Copperplate Gothic Light"}
 image {float: left}
 section {background: #1fffff; padding: 25px}
 image {float: left}
-.pull-left {width: 300px; border: 5px solid; border-color: #c2c2c1;}
+.pull-left {width: 300px; float: left; margin-right: 10px; margin-bottom: 10px; border: 5px solid; border-color: #c2c2c1;}
 .pull-right {float: right; margin-top: 5px; margin-right: 5px; margin-bottom: 10px; margin-left: 10px}
