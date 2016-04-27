@@ -44,3 +44,8 @@ body { width: 100%;}
 /********************************************
 * ADD YOUR CSS HERE :D
 ********************************************/
+h1 {background: #0cceff}
+.instructions {margin: 20px; border: 5px solid #000}
+image {float: left}
+section {background: #1fffff}
+image {float: left}
