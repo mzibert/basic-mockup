@@ -48,9 +48,9 @@ body {
 	font-family: sans-serif}
 header {
 	background: #0cceff;}
-h1.container {border-style: none; margin: 20px;}
-.instructions {margin: 20px; border: 5px solid; border-color: #c2c2c1; padding: 25px; font-family: "Copperplate Gothic Light";}
-section {background: #1fffff; padding: 25px;}
+h1.container {
+	border-style: none;
+	margin: 20px;}
 .pull-left {
 	width: 300px;
 	float: left;
@@ -69,4 +69,13 @@ footer {
 	color: antiquewhite;
 	font-style: italic;
 	font-size: 90%;
+	padding: 25px;}
+.instructions {
+	margin: 20px;
+	border: 5px solid;
+	border-color: #c2c2c1;
+	padding: 25px;
+	font-family: "Copperplate Gothic Light";}
+section {
+	background: #1fffff;
 	padding: 25px;}
